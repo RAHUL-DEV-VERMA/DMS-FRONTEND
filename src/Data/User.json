@@ -1,0 +1,53 @@
+[
+    {
+      "citizen_id": "CITZ001",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "mobile_number": "+91 9876543210",
+      "address": "123 Main Street, City Center, Delhi, 110001",
+      "gender": "Male",
+      "adhar_card": "1234 5678 9123"
+    },
+    {
+      "citizen_id": "CITZ002",
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "mobile_number": "+91 9876543211",
+      "address": "456 Secondary Road, Town Square, Mumbai, 400001",
+      "gender": "Female",
+      "adhar_card": "2345 6789 1234"
+    },
+    {
+      "citizen_id": "CITZ003",
+      "first_name": "Raj",
+      "last_name": "Patel",
+      "email": "raj.patel@example.com",
+      "mobile_number": "+91 9876543212",
+      "address": "789 Industrial Park, Sector 7, Bangalore, 560001",
+      "gender": "Male",
+      "adhar_card": "3456 7890 2345"
+    },
+    {
+      "citizen_id": "CITZ004",
+      "first_name": "Aisha",
+      "last_name": "Ali",
+      "email": "aisha.ali@example.com",
+      "mobile_number": "+91 9876543213",
+      "address": "101 Green Field, Residential Area, Pune, 411001",
+      "gender": "Female",
+      "adhar_card": "4567 8901 3456"
+    },
+    {
+      "citizen_id": "CITZ005",
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "mobile_number": "+91 9876543214",
+      "address": "202 Lakeview, Suburb Area, Chennai, 600001",
+      "gender": "Male",
+      "adhar_card": "5678 9012 4567"
+    }
+  ]
+  
